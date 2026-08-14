@@ -1,0 +1,12 @@
+# Zip deliverables (upload manually, not via git)
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Runtime artifacts
+VideoEncoder/downloads/
+VideoEncoder/encodes/
+*.log

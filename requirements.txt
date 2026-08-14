@@ -1,0 +1,31 @@
+# --- Telegram ---
+kurigram
+TgCrypto
+
+# --- Database ---
+motor
+pymongo
+dnspython
+
+# --- Async / networking ---
+aiohttp
+requests
+cloudscraper
+httpx
+
+# --- Direct-link / scraping helpers ---
+beautifulsoup4
+bs4
+lxml
+js2py
+lk21
+
+# --- Downloading ---
+pySmartDL
+
+# --- Media / metadata ---
+hachoir
+ffmpeg-python
+
+# --- System / misc ---
+psutil
